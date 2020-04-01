@@ -1,0 +1,124 @@
+{
+  companion: {
+    content_ID: '5897ad9f-4665-4372-8f3e-6c878adb8918',
+    skin_ID: 1,
+    species: 'PetTFTAvatar'
+  },
+  gold_left: 0,
+  last_round: 33,
+  level: 7,
+  placement: 5,
+  players_eliminated: 2,
+  puuid: 'VpG1Dpb7aXiH6PhqwkWls4yD5j3BX4KklQrFvPpkFoCvjPSjmAmBDwINXrbfVw7dsOZGxBvwxUPfZA',
+  time_eliminated: 1993.2034912109375,
+  total_damage_to_players: 91,
+  traits: [
+    {
+      name: 'Berserker',
+      num_units: 1,
+      style: 0,
+      tier_current: 0,
+      tier_total: 2
+    },
+    {
+      name: 'Desert',
+      num_units: 4,
+      style: 3,
+      tier_current: 2,
+      tier_total: 2
+    },
+    {
+      name: 'Light',
+      num_units: 1,
+      style: 0,
+      tier_current: 0,
+      tier_total: 3
+    },
+    {
+      name: 'Mystic',
+      num_units: 1,
+      style: 0,
+      tier_current: 0,
+      tier_total: 2
+    },
+    {
+      name: 'Set2_Assassin',
+      num_units: 1,
+      style: 0,
+      tier_current: 0,
+      tier_total: 2
+    },
+    {
+      name: 'Set2_Blademaster',
+      num_units: 4,
+      style: 3,
+      tier_current: 2,
+      tier_total: 3
+    },
+    {
+      name: 'Summoner',
+      num_units: 1,
+      style: 0,
+      tier_current: 0,
+      tier_total: 2
+    },
+    {
+      name: 'Wind',
+      num_units: 2,
+      style: 2,
+      tier_current: 1,
+      tier_total: 3
+    }
+  ],
+  units: [
+    {
+      character_id: 'TFT2_Renekton',
+      items: [Array],
+      name: 'Renekton',
+      rarity: 0,
+      tier: 1
+    },
+    {
+      character_id: 'TFT2_Yasuo',
+      items: [Array],
+      name: 'Yasuo',
+      rarity: 1,
+      tier: 2
+    },
+    {
+      character_id: 'TFT2_Aatrox',
+      items: [],
+      name: 'Aatrox',
+      rarity: 2,
+      tier: 2
+    },
+    {
+      character_id: 'TFT2_Azir',
+      items: [Array],
+      name: 'Azir',
+      rarity: 2,
+      tier: 2
+    },
+    {
+      character_id: 'TFT2_Sivir',
+      items: [],
+      name: 'Sivir',
+      rarity: 2,
+      tier: 2
+    },
+    {
+      character_id: 'TFT2_Khazix',
+      items: [Array],
+      name: 'Khazix',
+      rarity: 3,
+      tier: 2
+    },
+    {
+      character_id: 'TFT2_Janna',
+      items: [Array],
+      name: 'Janna',
+      rarity: 3,
+      tier: 2
+    }
+  ]
+}

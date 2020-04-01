@@ -1,0 +1,30 @@
+{
+  _id: 'NA1_3314530197',
+  metadata: {
+    data_version: '4',
+    match_id: 'NA1_3314530197',
+    participants: [
+      'VpG1Dpb7aXiH6PhqwkWls4yD5j3BX4KklQrFvPpkFoCvjPSjmAmBDwINXrbfVw7dsOZGxBvwxUPfZA',
+      'QzFYWR1zEGJDtRJP32OSg4SUVMd-ZpaR9CMIia_1qVGpa-PM3jGSNO5-psUxgUaIKeXL8PiiB-qUZA',
+      '1kmfOJXIs_u83lCN5-8sYrXn-8ObBA-8KdlQMKBWXhfCYXhAESu-x3EcfB3Dp12i95FC2OxqrwnRSA',
+      '6YhU8i07fVT-1xFkH7oHGLBERKJFOtzD5q6ld0PTw3Tn8bQ9SwNbtVFGIFTpTvereIAkjmxgnbakRg',
+      'j8Oe9aT2RTT7Sm6b6PbyZP6obH66SQcHV6T4LCaW7Wkbx2qWRZhO2pPgmOCeiw4AqDM9hs_wN9ezzw',
+      'QCjLHvrNyVsVpzD3MjiwQoSP08XaA_1z04YUGjEUHlXuyrW8s9xYD5wu0ytJ2_7udOeyp0pIKwiifg',
+      '7nqLX34QSNfmpn5vF61i5QMG7kPTHehfzaL6iz4sUwXKcP0Q_sbtKalD5mRA4e4ubrajfyDnJ1xJXg',
+      '3RyMcILVvESbNWi-7cYztCStt4xTqfjie9jh7cEgNv89Wyv982DiK8xd84hyLha7gEi_18M-jhoWSA'
+    ]
+  },
+  info: {
+    game_datetime: 1583326181126,
+    game_length: 2441.652099609375,
+    game_version: 'Version 10.5.311.166 (Feb 28 2020/20:49:49) [PUBLIC] <Releases/10.5>',
+    participants: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    queue_id: 1100,
+    tft_set_number: 2
+  }
+}
